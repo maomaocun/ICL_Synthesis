@@ -1,0 +1,774 @@
+[
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 30 more loaves of whole wheat than white bread, and each loaf of whole wheat costs $2.50, how much does the bakery make from whole wheat bread per day?",
+        "answer": "Let's say the number of loaves of white bread sold is x. Then, the number of loaves of whole wheat bread sold is x + 30.\nSince the total number of loaves sold is 250, we can set up the equation: x + (x + 30) = 250\nCombine like terms: 2x + 30 = 250\nSubtract 30 from both sides: 2x = 220\nDivide both sides by 2: x = 110\nSo, the number of loaves of white bread sold is 110.\nThe number of loaves of whole wheat bread sold is 110 + 30 = 140.\nThe total amount made from whole wheat bread is 140 x 2.50 = 350.\n#### ###{350}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 30% more whole wheat bread than white bread, and they sell a total of 120 loaves of whole wheat bread, how many loaves of white bread do they sell?",
+        "answer": "Let x be the number of loaves of white bread sold. Since they sell 30% more whole wheat bread than white bread, they sell x + 1.3x = 120 loaves of whole wheat bread. Simplifying the equation, we get 1.3x = 120 - x. Solving for x, we get x = 60. Therefore, they sell 60 loaves of white bread.###{60}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it effectively moves 1 foot up each day. To climb 20 feet, it will take 20 days. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back each day, so the net progress is 3 - 2 = 1 foot per day. To climb 20 feet, it will take 20 / 1 = 20 days. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it effectively climbs 3 - 2 = 1 foot per day. The snail needs to climb 20 feet to reach the top, so it will take 20 / 1 = 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 480 cookies in a day. They sell a combination of chocolate chip and oatmeal raisin cookies. The ratio of chocolate chip cookies to oatmeal raisin cookies is 3:5. How many chocolate chip cookies did they sell?",
+        "answer": "Let's say the number of chocolate chip cookies is 3x. Since the ratio is 3:5, the number of oatmeal raisin cookies is 5x. The total number of cookies is 3x + 5x = 8x. Since the total number of cookies is 480, we can set up the equation 8x = 480. Solving for x, we get x = 60. The number of chocolate chip cookies is 3x = 3*60 = 180. ###{180}"
+    },
+    {
+        "question": "A bakery sells a total of 240 loaves of bread in a day. They sell a combination of whole wheat and white bread. The ratio of whole wheat to white bread is 3:5. How many loaves of whole wheat bread are sold?",
+        "answer": "Let x be the number of loaves of whole wheat bread. Then, the number of loaves of white bread is 5x/3. The total number of loaves is 240, so we can set up the equation x + 5x/3 = 240. Multiply both sides by 3 to get 3x + 5x = 720. Combine like terms to get 8x = 720. Divide both sides by 8 to get x = 90. Since x is the number of loaves of whole wheat bread, the answer is 90. ###{90}"
+    },
+    {
+        "question": "A bakery is having a sale on its famous chocolate cake. The original price is $15, but the sale price is 15% off. How much will the cake cost after the discount?",
+        "answer": "The original price of the cake is $15.\nLet's calculate the discount amount: 15% of 15 = 0.15 * 15 = $2.25.\nThe sale price will be the original price minus the discount: $15 - $2.25 = $12.75.\n#### ###{12.75}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it moves 1 foot up each day.\nIt will take the snail 20 feet / 1 foot per day = <<20/1=20>>20 days to reach the top of the well.\n#### ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up each day and slips back 2 feet at night, so it effectively climbs 1 foot per day. To climb 20 feet, it will take the snail 20 days. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back each day, so it effectively moves 1 foot up each day. Since the well is 20 feet deep, it will take the snail 20 days to reach the top.###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up each day, but slips back 2 feet at night, so it effectively moves 1 foot up each day. To climb 20 feet, it will take the snail 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 480 loaves of bread in a week. On Monday, Tuesday, and Wednesday, they sold 120, 140, and 160 loaves, respectively. How many loaves did they sell on Thursday, Friday, and Saturday?",
+        "answer": "The total number of loaves sold is 480. The number of loaves sold on Monday, Tuesday, and Wednesday is 120 + 140 + 160 = 420. So, the number of loaves sold on Thursday, Friday, and Saturday is 480 - 420 = 60. Since there are 3 days, each day they sold 60 / 3 = 20 loaves. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips back 2 feet, so it effectively moves 1 foot up each day. To climb 20 feet, it will take 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery is making a cake that requires 3/4 cup of sugar. If they have 2 3/4 cups of sugar, how much will they have left after making the cake?",
+        "answer": "They have 2 3/4 cups of sugar, which is equal to 11/4 cups. They need 3/4 cup for the cake, so they will use 3/4 cup. To find out how much they will have left, subtract 3/4 from 11/4: 11/4 - 3/4 = 8/4 = 2 cups. They will have 2 cups of sugar left. ###{2}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. If a loaf of bread normally costs $2.50, and the sale is 15% off, how much will the loaf cost during the sale?",
+        "answer": "The amount of discount is 2.50 x 15/100 = $0.375\nSo, the cost of the loaf during the sale is 2.50 - 0.375 = $2.125\n#### ###{2.125}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. A loaf of bread normally costs $2.50, but it's on sale for 15% off. How much will you pay for a loaf of bread during the sale?",
+        "answer": "The discount is 15% of $2.50, which is 0.15 * 2.50 = 0.375.\nSo, the sale price is 2.50 - 0.375 = 2.125.\n#### ###{2.125}"
+    },
+    {
+        "question": "A bakery sells a total of 480 muffins and cookies on a certain day. The number of muffins sold is 3/5 of the number of cookies sold. How many muffins and cookies did the bakery sell?",
+        "answer": "Let the number of cookies sold be x. Then, the number of muffins sold is (3/5)x. The total number of muffins and cookies sold is 480, so we can set up the equation (3/5)x + x = 480. Solving for x, we get x = 200. The number of muffins sold is (3/5)(200) = 120. Therefore, the bakery sold 120 muffins and 200 cookies. \n#### ###{320}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "Let's start by finding the total distance the snail climbs each day: 3 feet (up) - 2 feet (down) = 1 foot. The snail climbs 1 foot each day, and the well is 20 feet deep. To find the number of days it takes to reach the top, we can divide the depth of the well by the distance climbed each day: 20 feet / 1 foot/day = 20 days. The snail will reach the top of the well in 20 days. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up each day and slips back 2 feet, so it effectively moves 3 - 2 = 1 foot up each day. To climb 20 feet, it will take 20 / 1 = 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. A loaf of whole wheat bread normally costs $2.50, but it's on sale for 12% off. A loaf of white bread normally costs $1.75, but it's on sale for 15% off. How much will a customer pay for 2 loaves of whole wheat bread and 3 loaves of white bread?",
+        "answer": "The sale reduced the price of whole wheat bread by 2.50 * 0.12 = $0.30. So the sale price is 2.50 - 0.30 = $2.20 per loaf. The total cost of 2 loaves is 2.20 * 2 = $4.40. The sale reduced the price of white bread by 1.75 * 0.15 = $0.26. So the sale price is 1.75 - 0.26 = $1.49 per loaf. The total cost of 3 loaves is 1.49 * 3 = $4.47. The total cost is $4.40 + $4.47 = $8.87. ###{8.87}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up each day and slips 2 feet back each night, so it effectively moves 3 - 2 = 1 foot up each day.\nIt needs to move 20 feet up to reach the top of the well, so it will take 20/1 = 20 days.\n#### ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it effectively climbs 3 - 2 = 1 foot up each day. To climb 20 feet, it will take 20 / 1 = 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery sells 240 loaves of bread per day. They make a profit of $0.50 per loaf. If they work 7 days a week, how much profit do they make in a week?",
+        "answer": "The bakery makes a profit of $0.50 per loaf. In a day, they make 240 x $0.50 = $120. In a week, they make 7 x $120 = $840. ###{840}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips back 2 feet, so it effectively moves 1 foot up each day. To climb 20 feet, it will take 20 days.\n#### ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up each day and slips back 2 feet at night, so it effectively climbs 3 - 2 = 1 foot each day.\nIt needs to climb 20 feet to reach the top, so it will take it 20/1 = 20 days to reach the top.\n#### ###{20}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. A loaf of bread normally costs $2.50, but during the sale, it's discounted by 15%. How much will you pay for a loaf of bread during the sale?",
+        "answer": "The discount is 15% of the original price, which is 0.15 * 2.50 = $0.375. The sale price is the original price minus the discount, so it's 2.50 - 0.375 = $2.125. ###{2.125}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it moves 1 foot up each day. It takes 20/1 = 20 days for the snail to reach the top of the well.\n#### ###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 240 loaves of bread per day. They sell a combination of whole wheat and white bread. The ratio of whole wheat to white bread is 3:5. How many loaves of whole wheat bread do they sell per day?",
+        "answer": "Let's say the number of whole wheat loaves is 3x and the number of white loaves is 5x. The total number of loaves is 3x + 5x = 8x. We know the total number of loaves is 240, so we can set up the equation 8x = 240. Solving for x, we get x = 30. The number of whole wheat loaves is 3x = 3*30 = 90. ###{90}"
+    },
+    {
+        "question": "A bakery sells a total of 480 muffins and scones on a certain day. The number of muffins sold is 3/5 of the number of scones sold. How many muffins and scones did the bakery sell?",
+        "answer": "Let x be the number of scones sold. Then, the number of muffins sold is 3x/5. The total number of muffins and scones sold is 480, so we can set up the equation x + 3x/5 = 480. Simplifying the equation, we get 8x/5 = 480. Multiplying both sides by 5, we get 8x = 2400. Dividing both sides by 8, we get x = 300. The number of muffins sold is 3x/5 = 3*300/5 = 180. Therefore, the bakery sold 180 muffins and 300 scones. ###{180, 300}"
+    },
+    {
+        "question": "A bakery is making a special batch of cookies for a holiday sale. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "The number of boxes needed is 480 / 12 = 40. Since you can't have a fraction of a box, they will need 40 whole boxes.###{40}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back each day, so it moves 1 foot up each day. To find the number of days it takes to reach the top, divide the total height by the daily movement: 20 feet / 1 foot/day = 20 days. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up each day, but slips back 2 feet at night, so the net progress each day is 3 - 2 = 1 foot. To reach the top of the well, it needs to climb 20 feet, so it will take 20 / 1 = 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery is making a special batch of cookies for a holiday sale. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "Let x be the number of boxes needed. We know that the total number of cookies is 12x. Since there are 480 cookies, we can set up the equation 12x = 480. Dividing both sides by 12, we get x = 40. Therefore, the bakery will need 40 boxes. ###{40}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 30% more whole wheat bread than white bread, and 60 loaves of whole wheat bread, how many loaves of white bread do they sell?",
+        "answer": "Let x be the number of loaves of white bread sold. Since they sell 30% more whole wheat bread than white bread, they sell 1.3x loaves of whole wheat bread. The total number of loaves sold is 250, so we can set up the equation x + 1.3x = 250. Combining like terms, we get 2.3x = 250. Dividing both sides by 2.3, we get x = 108.83. Since we can't sell a fraction of a loaf, we round down to 108 loaves. Therefore, the bakery sells 108 loaves of white bread. ###{108}"
+    },
+    {
+        "question": "A bakery is making a batch of cookies that requires 2/3 cup of sugar. If they already have 1/3 cup of sugar, how much more sugar do they need to add?",
+        "answer": "The bakery needs 2/3 cup of sugar, but they already have 1/3 cup. To find the remaining amount, subtract the amount they have from the total amount needed:\n2/3 - 1/3 = 1/3 cup\n#### ###{1/3}"
+    },
+    {
+        "question": "A bakery is making a special batch of cookies for a holiday sale. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "The bakery needs to divide 480 cookies into groups of 12. To do this, we can divide 480 by 12: 480 \u00f7 12 = 40. So, the bakery will need 40 boxes. ###{40}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "Let's calculate the net progress of the snail each day: 3 feet (climbed) - 2 feet (slipped back) = 1 foot. The snail climbs 1 foot each day.\nSince the well is 20 feet deep, the snail needs to climb 20 feet to reach the top.\nTo find the number of days, divide the total height by the daily progress: 20 feet / 1 foot = 20 days.\n#### ###{20}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. They are offering a 15% discount on all loaves of bread. If a loaf of bread originally costs $2.50, how much will it cost after the discount?",
+        "answer": "The discount is 15% of the original price, which is 0.15 * 2.50 = 0.375\nThe discount is 0.375 dollars, so the new price will be 2.50 - 0.375 = 2.125\n#### ###{2.125}"
+    },
+    {
+        "question": "A bakery sells a total of 480 loaves of bread in a week. They sell a combination of whole wheat and white bread. If the ratio of whole wheat to white bread is 2:5, how many loaves of whole wheat bread did they sell?",
+        "answer": "Let's say the number of loaves of whole wheat bread sold is 2x. Since the ratio of whole wheat to white bread is 2:5, the number of loaves of white bread sold is 5x.\nWe know that the total number of loaves sold is 480, so we can set up the equation:\n2x + 5x = 480\nCombine like terms:\n7x = 480\nDivide both sides by 7:\nx = 480/7 = 68\nSo the number of loaves of whole wheat bread sold is 2x = 2(68) = 136.\n#### ###{136}"
+    },
+    {
+        "question": "A bakery sells a total of 240 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 30 more whole wheat loaves than white bread loaves, and the number of whole wheat loaves is 60, how many white bread loaves do they sell?",
+        "answer": "The number of white bread loaves is 60 - 30 = 30. The total number of loaves is 240. The number of white bread loaves plus the number of whole wheat loaves is 30 + 60 = 90. Since 90 is 240 - 150 = 90 less than the total number of loaves, the number of white bread loaves is 30.###{30}"
+    },
+    {
+        "question": "A bakery sells 250 loaves of bread per day. If they produce 120 loaves in the morning and 130 loaves in the afternoon, how many loaves do they produce in a day?",
+        "answer": "The bakery produces 120 + 130 = <<120+130=250>> loaves in a day. Since they sell 250 loaves, they produce the same number as they sell. ###{250}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 30 more loaves of whole wheat than white bread, and they sell a total of 120 loaves of white bread, how many loaves of whole wheat do they sell?",
+        "answer": "Let's start by using the information that they sell 30 more loaves of whole wheat than white bread. We can set up an equation: w + 30 = 250 - w, where w is the number of loaves of white bread. Solving for w, we get w = 110. Since they sell a total of 120 loaves of white bread, we know that 110 is the correct value. Now we can find the number of loaves of whole wheat: 250 - 120 = 130. But we know that they sell 30 more loaves of whole wheat than white bread, so we subtract 30 from 130 to get 100. ###{100}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. A loaf of bread normally costs $2.50, but during the sale, it's 15% off. How much will you pay for a loaf of bread during the sale?",
+        "answer": "The sale is 15% off, so the discount is 2.50 * 0.15 = 0.375.\nThe new price is 2.50 - 0.375 = 2.125.\n###{2.125}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips back 2 feet down, so it effectively moves 1 foot up each day. To climb 20 feet, it will take 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. A loaf of bread normally costs $2.50, but during the sale, it costs $1.80. If you buy 5 loaves, how much will you save in total?",
+        "answer": "The normal price of 5 loaves is 5 * 2.50 = <<5*2.5=12.5>>12.50. The sale price of 5 loaves is 5 * 1.80 = <<5*1.8=9>>9. So the amount saved is 12.50 - 9 = <<12.5-9=3.5>>3.50. ###{3.50}"
+    },
+    {
+        "question": "A bakery is making a batch of cookies for a special order. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "The bakery needs to package 480 cookies. Each box can hold 12 cookies. To find the number of boxes needed, divide the total number of cookies by the number of cookies per box: 480 \u00f7 12 = 40. So, they will need 40 boxes. ###{40}"
+    },
+    {
+        "question": "A bakery sells a total of 240 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 20 more loaves of whole wheat than white bread, how many loaves of white bread do they sell?",
+        "answer": "Let the number of loaves of white bread be W. Then, the number of loaves of whole wheat is W + 20. The total number of loaves is the sum of these two: W + (W + 20) = 240. Combining like terms, we get 2W + 20 = 240. Subtracting 20 from both sides gives us 2W = 220. Dividing both sides by 2 gives us W = 110. So, the bakery sells 110 loaves of white bread. ###{110}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up during the day and slips 2 feet back at night, so it moves 1 foot up each day. To climb 20 feet, it will take the snail 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 480 loaves of bread per day. They sell a combination of whole wheat and white bread. If the ratio of whole wheat to white bread is 3:5, how many loaves of white bread do they sell per day?",
+        "answer": "Let's say the number of whole wheat loaves sold is 3x and the number of white bread loaves sold is 5x. We know that 3x + 5x = 480, so 8x = 480. Dividing both sides by 8, we get x = 60. The number of white bread loaves sold is 5x, which is 5(60) = 300. ###{300}"
+    },
+    {
+        "question": "A bakery sells a total of 480 cookies in a day. They sell chocolate chip cookies for $2 each and oatmeal raisin cookies for $1.50 each. If they sell 3 times as many chocolate chip cookies as oatmeal raisin cookies, how much money did they make in total?",
+        "answer": "Let's start by finding the number of oatmeal raisin cookies sold. Let x be the number of oatmeal raisin cookies. Then, 3x is the number of chocolate chip cookies. The total number of cookies is 480, so x + 3x = 480. Simplify the equation to get 4x = 480. Divide both sides by 4 to get x = 120. So, they sold 120 oatmeal raisin cookies and 3x = 3(120) = 360 chocolate chip cookies. The total revenue from oatmeal raisin cookies is 120 x $1.50 = $180. The total revenue from chocolate chip cookies is 360 x $2 = $720. The total revenue is $180 + $720 = $900. ###{900}"
+    },
+    {
+        "question": "A bakery sells a total of 480 cookies in a day. They sell chocolate chip cookies for $1.50 each and oatmeal raisin cookies for $1.00 each. If they sell 3 times as many chocolate chip cookies as oatmeal raisin cookies, how much money did they make in total?",
+        "answer": "Let x be the number of oatmeal raisin cookies sold. Then, the number of chocolate chip cookies sold is 3x. The total revenue from oatmeal raisin cookies is 1.00x and the total revenue from chocolate chip cookies is 1.50(3x). The total revenue is the sum of these two, which is 1.00x + 4.50x = 5.50x. Since the total number of cookies is 480, we can set up the equation: x + 3x = 480. Solving for x, we get x = 120. The number of oatmeal raisin cookies sold is 120, and the number of chocolate chip cookies sold is 3x = 360. The total revenue is 5.50(120) = 660. ###{660}"
+    },
+    {
+        "question": "A bakery sells 240 loaves of bread per day. They need to package them in boxes that hold 12 loaves each. How many boxes do they need to buy?",
+        "answer": "The bakery needs to package 240 loaves of bread. Each box holds 12 loaves. To find the number of boxes needed, divide the total number of loaves by the number of loaves per box: 240 \u00f7 12 = 20. Therefore, the bakery needs to buy 20 boxes. ###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 240 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 3/5 of the loaves as whole wheat, and each whole wheat loaf costs $2.50, how much money do they make from selling whole wheat loaves in a day?",
+        "answer": "The number of whole wheat loaves sold is 240 * 3/5 = 144 loaves.\nEach whole wheat loaf costs $2.50, so the total revenue from whole wheat loaves is 144 * 2.50 = 360.\n#### ###{360}"
+    },
+    {
+        "question": "A bakery sells 250 loaves of bread per day. If they produce 120 loaves in the morning and 130 loaves in the afternoon, how many loaves are left unsold at the end of the day?",
+        "answer": "The bakery produces 120 + 130 = <<120+130=250>>250 loaves in total. Since they sell 250 loaves per day, they will sell all the loaves produced. Therefore, there are 0 loaves left unsold. ###{0}"
+    },
+    {
+        "question": "A bakery sells a total of 480 muffins and scones in a day. The number of muffins is 3/5 of the number of scones. How many muffins did the bakery sell?",
+        "answer": "Let x be the number of scones. The number of muffins is 3/5x. The total number of muffins and scones is 480. So, x + 3/5x = 480. Combine like terms: 8/5x = 480. Multiply both sides by 5/8: x = 300. The number of muffins is 3/5x, which is 3/5*300 = 180. ###{180}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. They are offering a 15% discount on all loaves of bread. If a loaf of bread originally costs $2.50, how much will it cost during the sale?",
+        "answer": "The original price of the loaf is $2.50. The discount is 15% of $2.50, which is $2.50 * 0.15 = $0.375. The sale price is then $2.50 - $0.375 = $2.125. ###{2.125}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If the ratio of whole wheat to white bread is 3:5, how many loaves of white bread do they sell?",
+        "answer": "Let's assume the number of whole wheat loaves is 3x. Then, the number of white loaves is 5x. The total number of loaves is 3x + 5x = 8x. We know that 8x = 250, so x = 250/8 = 31.25. Since x is the number of whole wheat loaves, the number of white loaves is 5x = 5 * 31.25 = 156.25. Since you can't sell a fraction of a loaf, we round down to the nearest whole number, which is 156. ###{156}"
+    },
+    {
+        "question": "A bakery is making a special batch of cookies for a holiday sale. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "To find the number of boxes needed, divide the total number of cookies by the number of cookies per box: 480 cookies / 12 cookies/box = 40 boxes.###{40}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips back 2 feet, so it effectively climbs 1 foot each day. To climb 20 feet, it will take the snail 20 feet / 1 foot/day = 20 days. ###{20}"
+    },
+    {
+        "question": "A rectangular garden measures 12 meters by 8 meters. If a path that is 1 meter wide is built around the garden, what is the area of the path?",
+        "answer": "The area of the garden is 12 meters * 8 meters = 96 square meters. The path adds 1 meter to each side, so the new dimensions are 12 + 2 * 1 = 14 meters and 8 + 2 * 1 = 10 meters. The area of the path is (14 - 12) * (10 - 8) = 2 * 2 = 4 square meters. Since the path is built around the garden, we multiply the area of the path by 4 to get the total area of the path. 4 * 4 = 16 square meters. ###{16}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "Let x be the number of days it takes for the snail to reach the top.\nEach day, the snail climbs 3 feet and slips back 2 feet, so it moves 3 - 2 = 1 foot up.\nAfter x days, the snail will have moved 1 * x = x feet up.\nSince the well is 20 feet deep, we know that x * 1 = 20.\nDividing both sides by 1, we get x = 20.\n#### ###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 480 muffins and scones on a particular day. The number of muffins sold is 3/5 of the number of scones sold. How many muffins were sold?",
+        "answer": "Let x be the number of scones sold. Then 3/5x is the number of muffins sold. The total number of muffins and scones sold is 480, so we can set up the equation: 3/5x + x = 480. Subtracting 3/5x from both sides gives us x = 480 * (5/8) = 300. So the number of scones sold is 300. The number of muffins sold is 3/5 * 300 = 180. ###{180}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back each day, so it effectively climbs 1 foot each day.\nIt needs to climb 20 feet to reach the top, so it will take 20 days.\n#### ###{20}"
+    },
+    {
+        "question": "A bakery sells 250 loaves of bread per day. If they produce 5% more loaves on Fridays, how many loaves do they sell on a Friday?",
+        "answer": "The bakery sells 250 loaves per day. On Fridays, they produce 5% more loaves, which is 250 * 0.05 = 12.5 loaves. So, they sell 250 + 12.5 = 262.5 loaves on a Friday. ###{262.5}"
+    },
+    {
+        "question": "A bakery is making a special batch of cookies for a holiday sale. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "The number of cookies per box is 12. The total number of cookies is 480. To find the number of boxes, we can divide the total number of cookies by the number of cookies per box: 480 \u00f7 12 = 40. Therefore, the bakery will need 40 boxes. ###{40}"
+    },
+    {
+        "question": "A bakery is making a special batch of cookies for a holiday sale. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "The bakery needs to package 480 cookies into boxes that hold 12 cookies each. To find the number of boxes needed, we can divide the total number of cookies by the number of cookies per box: 480 \u00f7 12 = 40. So, they will need 40 boxes. ###{40}"
+    },
+    {
+        "question": "A bakery sells a total of 480 muffins and scones on a particular day. The ratio of muffins to scones is 3:5. How many muffins did the bakery sell?",
+        "answer": "Let the number of muffins sold be 3x and the number of scones sold be 5x. Then, 3x + 5x = 480, which simplifies to 8x = 480. Dividing both sides by 8, we get x = 60. Therefore, the number of muffins sold is 3x = 3*60 = 180. ###{180}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up each day, but slips back 2 feet at night. So, the net progress each day is 3 - 2 = 1 foot. The well is 20 feet deep, so the snail needs to climb 20 feet to reach the top. The number of days required is the ratio of the depth to the net progress per day: 20/1 = 20. Therefore, it will take the snail 20 days to reach the top of the well. ###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 30 more loaves of whole wheat than white bread, and they sell at least 50 loaves of white bread, how many loaves of each type do they sell?",
+        "answer": "Let x be the number of loaves of white bread sold. Then the number of loaves of whole wheat sold is x + 30. Since the total number of loaves sold is 250, we can set up the equation x + (x + 30) = 250. Solving for x, we get x = 110. So the bakery sells 110 loaves of white bread and 110 + 30 = 140 loaves of whole wheat.#### ###{110, 140}"
+    },
+    {
+        "question": "A bakery sells a total of 480 muffins and scones on a certain day. The number of muffins sold is 3/5 of the number of scones sold. How many muffins were sold?",
+        "answer": "Let's say the number of scones sold is x. Since the number of muffins sold is 3/5 of the number of scones sold, the number of muffins sold is (3/5)*x. The total number of muffins and scones sold is 480, so we can set up the equation (3/5)*x + x = 480. Solving for x, we get x = 200. Since the number of muffins sold is (3/5)*x, the number of muffins sold is (3/5)*200 = 120. ###{120}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. They offer a 15% discount on all loaves of bread. If a loaf of bread originally costs $2.50, how much will it cost during the sale?",
+        "answer": "The original price of the loaf of bread is $2.50. The discount is 15% of the original price, which is 0.15 * 2.50 = $0.375. The sale price is the original price minus the discount, which is $2.50 - $0.375 = $2.125. ###{2.125}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it effectively moves 3 - 2 = 1 foot up each day. To find the number of days it will take to reach the top, divide the height of the well by the distance it moves each day: 20 feet / 1 foot per day = 20 days.###{20}"
+    },
+    {
+        "question": "A water tank can hold 2400 liters of water. If 3/4 of the tank is already filled, how many more liters of water can be added?",
+        "answer": "First, find the capacity of the tank that is not yet filled: 2400 liters - (3/4 * 2400) = 2400 - 1800 = <<2400-1800=600>>600 liters.\n#### ###{600}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it effectively moves 1 foot up each day. To climb 20 feet, it will take the snail 20 days. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up each day and slips back 2 feet at night, so the net progress each day is 3 - 2 = 1 foot. To climb 20 feet, it will take 20 / 1 = 20 days. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips back 2 feet, so it effectively moves 3 - 2 = 1 foot up each day. To climb 20 feet, it will take the snail 20 / 1 = 20 days.\n#### ###{20}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. A loaf of bread normally costs $2.50, but during the sale, it's 15% off. How much will you pay for a loaf of bread during the sale?",
+        "answer": "The original price of the bread is $2.50. To find the discount, multiply the original price by the discount percentage: $2.50 x 0.15 = $0.375. To find the sale price, subtract the discount from the original price: $2.50 - $0.375 = $2.125. ###{2.125}"
+    },
+    {
+        "question": "A bakery is making a special batch of cookies for a holiday sale. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "The total number of cookies is 480. To find the number of boxes needed, divide the total number of cookies by the number of cookies per box: 480 / 12 = 40. So, the bakery will need 40 boxes. ###{40}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up each day and slips back 2 feet at night, so it effectively climbs 3 - 2 = 1 foot each day. To climb 20 feet, it will take 20/1 = 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery is making a special batch of cookies for a holiday sale. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "The number of cookies per box is 12. To find the total number of boxes, divide the total number of cookies by the number of cookies per box: 480 / 12 = <<480/12=40>>40. Therefore, the bakery will need 40 boxes. ###{40}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up each day and slips back 2 feet at night, so the net progress is 3 - 2 = 1 foot per day.\nIt needs to climb 20 feet to reach the top, so it will take 20 / 1 = 20 days.\n#### ###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 30% more whole wheat bread than white bread, and they sell a total of 120 loaves of whole wheat bread, how many loaves of white bread do they sell?",
+        "answer": "Let's say the number of loaves of white bread sold is x. Since they sell 30% more whole wheat bread than white bread, the number of loaves of whole wheat bread sold is x + 30% of x = 1.3x. The total number of loaves sold is 250, so we can set up the equation x + 1.3x = 250. Combining like terms, we get 2.3x = 250. Dividing both sides by 2.3, we get x = 109. Since they sell 30% more whole wheat bread than white bread, the number of loaves of white bread sold is x = 109. ###{109}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 3/5 of their loaves as whole wheat, how many loaves of white bread do they sell?",
+        "answer": "The total number of loaves is 250. 3/5 of the loaves are whole wheat, so the number of whole wheat loaves is 250 * 3/5 = 150. The number of white bread loaves is 250 - 150 = 100. ###{100}"
+    },
+    {
+        "question": "A bakery sells a total of 240 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 3/5 as many whole wheat loaves as white bread loaves, how many loaves of white bread do they sell per day?",
+        "answer": "Let's say the number of white bread loaves sold is x. Then, the number of whole wheat loaves sold is (3/5)x. The total number of loaves sold is 240, so we can set up the equation x + (3/5)x = 240. Combine like terms: (8/5)x = 240. Multiply both sides by 5/8: x = 150. So, they sell 150 loaves of white bread per day.###{150}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. A loaf of bread normally costs $2.50, but during the sale, it's discounted by 15%. How much will you pay for a loaf of bread during the sale?",
+        "answer": "The original price of the bread is $2.50. A 15% discount is the same as 0.15 * 2.50 = $0.375. The discount amount is $0.375. The sale price is the original price minus the discount, so it's $2.50 - $0.375 = $2.125. ###{2.125}"
+    },
+    {
+        "question": "A bakery sells 250 loaves of bread per day. If they produce 30% more loaves on weekdays and 20% fewer loaves on weekends, how many loaves do they produce in a 7-day week?",
+        "answer": "The bakery produces 250 loaves per day. On weekdays, they produce 30% more, which is 250 + (30% * 250) = 250 + 75 = 325 loaves. On weekends, they produce 20% fewer, which is 250 - (20% * 250) = 250 - 50 = 200 loaves. In a 7-day week, they produce 5 weekdays and 2 weekends. The total loaves produced are 5 * 325 + 2 * 200 = 1625 + 400 = 2025 loaves. ###{2025}"
+    },
+    {
+        "question": "A bakery is having a sale on a certain type of bread. The original price of the bread is $2.50 per loaf. If the sale is 15% off, how much will you pay for 3 loaves of bread?",
+        "answer": "The original price of the bread is $2.50 per loaf. The sale is 15% off, so the discount is 2.50 * 0.15 = 0.375. The new price of the bread is 2.50 - 0.375 = 2.125. The cost of 3 loaves of bread is 3 * 2.125 = 6.375. ###{6.375}"
+    },
+    {
+        "question": "A rectangular garden measures 15 meters by 8 meters. A path that is 2 meters wide is built around the garden. What is the area of the path?",
+        "answer": "The area of the garden is 15 * 8 = 120 square meters. The path is 2 meters wide, so it adds an extra 2 * (15 + 8) = 2 * 23 = 46 meters to the perimeter. The area of the path is the area of the outer rectangle minus the area of the inner rectangle: 23 * 15 - 15 * 8 = 345 - 120 = 225 square meters. ###{225}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet each day and slips back 2 feet at night, so its net progress is 3 - 2 = 1 foot per day.\nIt needs to climb 20 feet to reach the top of the well, so it will take 20 / 1 = 20 days.\n#### ###{20}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. A regular loaf of bread costs $2, and a whole wheat loaf costs $3. If you buy 4 regular loaves and 2 whole wheat loaves, how much will you pay in total?",
+        "answer": "The total cost of the 4 regular loaves is 4 x $2 = $<<4*2=8>>8. The total cost of the 2 whole wheat loaves is 2 x $3 = $<<2*3=6>>6. The total cost is 8 + 6 = $<<8+6=14>>14. ###{14}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "Let's denote the number of days as d. At the end of the dth day, the snail will have climbed 3d feet. Since it slips back 2 feet each night, it will have actually climbed 3d - 2d = d feet. The well is 20 feet deep, so we set up the equation d = 20. Solving for d, we get d = 20. Since the snail climbs 3 feet each day, it will take 20/3 = 6.67 days to reach the top of the well, but since you can't climb a fraction of a day, it will take the snail 7 days to reach the top. ###{7}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up each day, but slips back 2 feet at night, so it effectively moves 3 - 2 = 1 foot up each day.\nIt takes 20 feet to reach the top, so it will take 20/1 = 20 days.\n#### ###{20}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. If a loaf of bread normally costs $2.50, but it's 15% off, how much will it cost during the sale?",
+        "answer": "Let's find the discount first. 15% of 2.50 is 0.15 * 2.50 = 0.375. So the discount is 0.375. The sale price is the original price minus the discount: 2.50 - 0.375 = 2.125. ###{2.125}"
+    },
+    {
+        "question": "A bakery is making a special batch of cookies for a holiday sale. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "The bakery needs to package 480 cookies into boxes that hold 12 cookies each. To find the number of boxes needed, divide 480 by 12: 480 \u00f7 12 = 40. So, they will need 40 boxes. ###{40}"
+    },
+    {
+        "question": "A bakery sells a total of 480 muffins and cakes on a certain day. They sold 3/4 of the muffins and 5/6 of the cakes. What fraction of the total baked goods were sold?",
+        "answer": "Let M be the number of muffins and C be the number of cakes. We know that M + C = 480. We also know that 3/4 of the muffins were sold, so 3M/4 were sold. We also know that 5/6 of the cakes were sold, so 5C/6 were sold. The total number of baked goods sold is the sum of the muffins and cakes sold, which is (3M/4) + (5C/6). We can set up an equation to represent this: (3M/4) + (5C/6) = (3M + 5C)/4. We know that M + C = 480, so we can substitute this into the equation to get (3M + 5C)/4 = (3(480 - C)/4 + 5C/6). Simplifying this equation, we get (3M + 5C)/4 = 360 - C/4 + 5C/6. Now we can solve for C: 3M + 5C = 1440 - C + 5C. Simplifying this equation, we get 3M = 1440 - 6C. Since M + C = 480, we can substitute this into the equation to get 3(480 - C) = 1440 - 6C. Simplifying this equation, we get 1440 - 3C = 1440 - 6C. Subtracting 1440 from both sides, we get -3C = -6C. Adding 6C to both sides, we get 3C = 0. Dividing both sides by 3, we get C = 0. Since C = 0, we know that M = 480. The total number of baked goods sold is (3M/4) + (5C/6) = (3(480)/4) + (5(0)/6) = 360. The fraction of the total baked goods that were sold is 360/480 = 3/4. ###{3/4}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back each day, so it effectively climbs 3-2 = 1 foot each day. To climb 20 feet, it will take 20/1 = 20 days.###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 240 loaves of bread in a day. They sell a combination of whole wheat and white bread. The ratio of whole wheat to white bread is 3:5. How many loaves of whole wheat bread are sold?",
+        "answer": "Let's assume the number of whole wheat bread sold is x. Then, the number of white bread sold is (5/3)*x. The total number of loaves sold is the sum of whole wheat and white bread, which is x + (5/3)*x = 240. Simplifying the equation, we get 8x/3 = 240. Multiplying both sides by 3, we get 8x = 720. Dividing both sides by 8, we get x = 90. So, the number of whole wheat bread sold is 90. ###{90}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 30% more whole wheat bread than white bread, and 60 loaves of whole wheat bread, how many loaves of white bread do they sell?",
+        "answer": "Let's say the number of loaves of white bread sold is x. Since they sell 30% more whole wheat bread than white bread, the number of loaves of whole wheat bread sold is x + 0.3x = 1.3x. The total number of loaves sold is 250, so we can set up the equation x + 1.3x = 250. Combining like terms, we get 2.3x = 250. Dividing both sides by 2.3, we get x = 109. So they sell 109 loaves of white bread. ###{109}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it effectively moves 1 foot up each day.\nThe snail needs to move 20 feet to reach the top of the well, so it will take 20 days to reach the top.\n#### ###{20}"
+    },
+    {
+        "question": "A bakery sells a dozen donuts for $6. If a customer buys 2 dozen donuts, how much will they pay in total?",
+        "answer": "The cost of 1 dozen donuts is $6, so the cost of 2 dozen donuts is 2 * 6 = 12. The customer will pay $###{12}."
+    },
+    {
+        "question": "A bakery sells a total of 240 loaves of bread in a day. They sell whole wheat bread for $2.50 per loaf and rye bread for $3.00 per loaf. If they sell 60 more loaves of rye bread than whole wheat bread, how much money did they make in total?",
+        "answer": "The bakery sold 240 loaves of bread in total. Let's say they sold x loaves of whole wheat bread. Then they sold x + 60 loaves of rye bread. The total amount of money they made is 2.50x + 3.00(x + 60). We know that the total number of loaves is 240, so we can set up the equation 2.50x + 3.00(x + 60) = 240.00. Simplifying the equation, we get 5.50x + 180 = 240.00. Subtracting 180 from both sides gives us 5.50x = 60.00. Dividing both sides by 5.50 gives us x = 10.91. So they sold 10.91 loaves of whole wheat bread. Since they sold 60 more loaves of rye bread, they sold 10.91 + 60 = 70.91 loaves of rye bread. The total amount of money they made is 2.50 * 10.91 + 3.00 * 70.91 = 25.775 + 210.27 = 236.05. ###{236.05}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 30 more loaves of whole wheat than white bread, and they sell 2/3 as many loaves of whole wheat as white bread, how many loaves of white bread do they sell?",
+        "answer": "Let x be the number of loaves of white bread. Since they sell 2/3 as many loaves of whole wheat as white bread, they sell 2x/3 loaves of whole wheat. The total number of loaves is 250, so x + 2x/3 = 250. Simplifying the equation, we get 11x/3 = 250. Multiplying both sides by 3, we get 11x = 750. Dividing both sides by 11, we get x = 68. So they sell 68 loaves of white bread.###{68}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips back 2 feet, so it effectively moves up 3 - 2 = 1 foot per day.\nIt needs to move 20 feet to reach the top of the well.\nSo, it will take the snail 20 feet / 1 foot per day = 20 days to reach the top of the well.\n#### ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up each day, but slips back 2 feet at night. So, it effectively climbs 3 - 2 = 1 foot each day.\nIt needs to climb 20 feet to reach the top. So, it will take 20 / 1 = 20 days.\n#### ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips back 2 feet, so it effectively climbs 1 foot up each day. To climb 20 feet, it will take 20 days.###{20}"
+    },
+    {
+        "question": "A bakery is making a batch of cookies. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "The number of cookies that can be packaged in a box is 12. To find the total number of boxes needed, divide the total number of cookies by the number of cookies per box: 480 / 12 = 40. Therefore, the bakery will need 40 boxes. ###{40}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips back 2 feet, so it moves 1 foot up each day. To climb 20 feet, it will take 20 days. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back each day, so it effectively climbs 3 - 2 = 1 foot per day. It needs to climb 20 feet to reach the top. Therefore, it will take the snail 20/1 = 20 days to reach the top. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up each day, but slips back 2 feet at night, so it effectively moves up 1 foot each day. To climb 20 feet, it will take the snail 20 feet / 1 foot per day = 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 240 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 3/5 of their bread as whole wheat, how many loaves of whole wheat bread do they sell per day?",
+        "answer": "The total number of loaves of bread sold is 240.\nLet x be the number of loaves of whole wheat bread sold.\nThe number of loaves of white bread sold is 240 - x.\nSince 3/5 of the total bread sold is whole wheat, we can set up the equation 3/5 * 240 = x.\nSimplifying the equation, we get 144 = x.\n#### ###{144}"
+    },
+    {
+        "question": "A bakery sells a total of 480 muffins and scones on a certain day. The number of muffins sold is 3/5 of the total number of muffins and scones sold. How many scones were sold?",
+        "answer": "Let x be the number of muffins sold. Then, the number of scones sold is 480 - x. We know that the number of muffins sold is 3/5 of the total number of muffins and scones sold, so we can set up the equation: x = (3/5)(480) = 288. The number of scones sold is then 480 - 288 = 192. ###{192}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up each day and slips 2 feet back each night, so it effectively moves 1 foot up each day. To find the number of days it takes to reach the top, divide the height of the well by the daily progress: 20 feet / 1 foot/day = 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If the ratio of whole wheat to white bread is 3:5, how many loaves of whole wheat bread do they sell?",
+        "answer": "Let's start by finding the total number of loaves of white bread sold. Since the ratio of whole wheat to white bread is 3:5, the ratio of whole wheat to total loaves is 3:(3+5) = 3:8. Since the total number of loaves sold is 250, the number of loaves of white bread sold is (5/8) * 250 = 156.25. Since the number of loaves of whole wheat bread sold is 3 times the number of loaves of white bread, the number of loaves of whole wheat bread sold is 3 * 156.25 = 468.75. However, since you can't sell a fraction of a loaf, we round down to the nearest whole number. Therefore, the bakery sells 156 loaves of whole wheat bread. ###{156}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 3 times as many whole wheat loaves as white loaves, and 60 loaves of white bread, how many loaves of whole wheat bread do they sell?",
+        "answer": "Let's say the number of white loaves is x. Since they sell 3 times as many whole wheat loaves, the number of whole wheat loaves is 3x. We know that the total number of loaves is 250, so we can set up the equation x + 3x = 250. Combining like terms, we get 4x = 250. Dividing both sides by 4, we get x = 62.5. Since we can't sell a fraction of a loaf, we round down to 62. So, the number of white loaves is 62. The number of whole wheat loaves is 3 times this, which is 3 x 62 = 186. ###{186}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, netting 1 foot of progress each day. To climb 20 feet, it will take 20 feet / 1 foot per day = 20 days. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips back 2 feet down each day, so it effectively climbs 1 foot up each day. To climb 20 feet, it will take 20 days. ###{20}"
+    },
+    {
+        "question": "Question text",
+        "answer": "Step-by-step solution, concluding with the final answer in the format ###{<result>}"
+    },
+    {
+        "question": "A bakery is making a special batch of cookies for a holiday sale. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "The number of cookies per box is 12. To find the number of boxes needed, divide the total number of cookies by the number of cookies per box: 480 / 12 = 40. So, they will need 40 boxes. ###{40}"
+    },
+    {
+        "question": "A bakery sells a total of 480 loaves of bread per day. They sell a combination of whole wheat and white bread. The ratio of whole wheat to white bread is 3:5. How many loaves of whole wheat bread does the bakery sell?",
+        "answer": "Let's say the number of whole wheat loaves is 3x. Since the ratio is 3:5, the number of white loaves is 5x. The total number of loaves is 3x + 5x = 8x. We know the total number of loaves is 480, so we can set up the equation 8x = 480. Solving for x, we get x = 60. Since x is the number of whole wheat loaves, the bakery sells 3x = 3(60) = 180 loaves of whole wheat bread. ###{180}"
+    },
+    {
+        "question": "A bakery sells a total of 240 loaves of bread per day. They sell a combination of whole wheat and white bread. The ratio of whole wheat to white bread is 3:5. How many loaves of whole wheat bread do they sell per day?",
+        "answer": "The ratio of whole wheat to white bread is 3:5, which means the total number of loaves of bread sold is 3x + 5x = 8x. Since the total number of loaves sold is 240, we can set up the equation 8x = 240. Solving for x, we get x = 30. Since the ratio is 3:5, the number of whole wheat loaves sold is 3x = 3(30) = 90. ###{90}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 30 more loaves of whole wheat than white bread, and each loaf of whole wheat costs $1.50 more than each loaf of white bread, how much more money do they make from whole wheat bread per day?",
+        "answer": "Let x be the number of loaves of white bread sold. Then, the number of loaves of whole wheat bread sold is x + 30. The total revenue from white bread is x * (price of white bread) = x * (price of whole wheat bread - $1.50) = x * (1.50). The total revenue from whole wheat bread is (x + 30) * (price of whole wheat bread) = (x + 30) * (1.50 + 1.50) = (x + 30) * 3. The difference in revenue is (x + 30) * 3 - x * 1.50 = 2.5x + 90. Since the total number of loaves sold is 250, x + (x + 30) = 250, so x = 110. The difference in revenue is 2.5 * 110 + 90 = ###{275}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. The ratio of whole wheat to white bread is 3:5. How many loaves of whole wheat bread are sold per day?",
+        "answer": "The ratio of whole wheat to white bread is 3:5, so the total number of loaves of bread sold is 3x + 5x = 8x. Since the total number of loaves sold is 250, we can set up the equation 8x = 250. Solving for x, we get x = 250/8 = 31.25. Since the ratio is 3:5, the number of loaves of whole wheat bread sold is 3x = 3*31.25 = 93.25. However, we can't sell a fraction of a loaf, so we round down to the nearest whole number, which is 93. Therefore, the bakery sells 93 loaves of whole wheat bread per day. ###{93}"
+    },
+    {
+        "question": "Tom is planning a trip to a theme park. The park offers a special promotion: if you buy 5 tickets, you get 2 tickets for free. How many tickets does Tom need to buy to get 15 tickets?",
+        "answer": "Since the promotion gives you 2 tickets for free for every 5 tickets you buy, Tom needs to buy 5/3 of the total tickets. To get 15 tickets, Tom needs to buy 5/3 * 15 = 25 tickets. Since you buy 5 tickets, you get 2 tickets for free. So Tom needs to buy 25 - 5 = 20 tickets. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so the net progress each day is 3 - 2 = 1 foot. The snail needs to climb 20 feet to reach the top, so it will take 20 / 1 = 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If the ratio of whole wheat to white bread is 3:5, how many loaves of whole wheat bread do they sell?",
+        "answer": "Let's say the number of whole wheat loaves sold is x. Since the ratio of whole wheat to white bread is 3:5, the number of white bread loaves sold is (5/3)x. The total number of loaves sold is 250, so we can set up the equation: x + (5/3)x = 250. Combine like terms: (8/3)x = 250. Multiply both sides by 3/8 to get x = 125/2 = 62.5. Since you can't sell a fraction of a loaf, the bakery sells 62 loaves of whole wheat bread. ###{62}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips back 2 feet, so it effectively moves 1 foot up each day. To find the number of days it takes to reach the top, divide the distance to the top by the distance it moves each day: 20 feet / 1 foot per day = 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 240 loaves of bread per day. They sell a combination of whole wheat and white bread. If the ratio of whole wheat to white bread is 3:5, how many loaves of whole wheat bread do they sell per day?",
+        "answer": "Let's assume the number of whole wheat loaves sold is 3x. Then, the number of white loaves sold is 5x. The total number of loaves sold is 3x + 5x = 8x. Since the total number of loaves sold is 240, we can set up the equation 8x = 240. Solving for x, we get x = 30. Since the number of whole wheat loaves sold is 3x, the bakery sells 3*30 = 90 loaves of whole wheat bread per day. ###{90}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips back 2 feet down, so it moves 1 foot up each day. To move 20 feet, it will take 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery sells 250 loaves of bread per day. They make a profit of $0.50 per loaf. How much profit do they make in a week?",
+        "answer": "The bakery sells 250 loaves of bread per day. In a week, they sell 250 loaves/day * 7 days = 1750 loaves.\nEach loaf makes a profit of $0.50, so the total profit is 1750 loaves * $0.50/loaf = $<<1750*0.5=875.00>>875.00.\n#### ###{875.00}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips back 2 feet, so it effectively climbs 1 foot up each day. To climb 20 feet, it will take the snail 20 days.\n#### ###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 240 loaves of bread per day, with 30% of the loaves being whole wheat. How many loaves of whole wheat bread are sold per day?",
+        "answer": "Let's first find the number of loaves of whole wheat bread sold per day: 30% of 240 = 0.3 x 240 = 72.\nSince 30% of the total loaves sold are whole wheat, the remaining 70% are other types of bread.\nLet's find the number of other loaves sold per day: 100% - 30% = 70%, so 70% of 240 = 0.7 x 240 = 168.\nNow, we can find the number of whole wheat loaves sold per day: 72.\n#### ###{72}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips back 2 feet, so it moves 3 - 2 = 1 foot up each day. To climb 20 feet, it will take 20 / 1 = 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery is making a special batch of cookies for a holiday sale. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "The bakery needs to package 480 cookies into boxes that hold 12 cookies each. To find the number of boxes needed, divide the total number of cookies by the number of cookies per box: 480 / 12 = 40. So they will need 40 boxes. ###{40}"
+    },
+    {
+        "question": "A bakery sells 240 loaves of bread per day. If they sell bread at a rate of 4 loaves per minute, how many minutes does it take to sell all the bread?",
+        "answer": "The bakery sells 240 loaves of bread per day. If they sell 4 loaves per minute, then they sell 240 loaves / 4 loaves/minute = <<240/4=60>>60 minutes per day. Since there are 60 minutes in an hour, it takes 1 hour to sell all the bread.###{1}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. They are offering a 15% discount on all loaves of bread. If a loaf of bread normally costs $2.50, how much will it cost during the sale?",
+        "answer": "The normal price of the bread is $2.50. To find the discounted price, we calculate 15% of the original price as 0.15*2.50 = $0.375. The discount is $0.375, so the sale price is 2.50 - 0.375 = $2.125. ###{2.125}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so the net progress each day is 3 - 2 = 1 foot. Since the well is 20 feet deep, the snail needs to make 20 feet of progress. To make 20 feet of progress at a rate of 1 foot per day, it will take 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. If you buy 2 loaves, you get a 10% discount. If you buy 4 loaves, you get a 20% discount. How much will you save if you buy 6 loaves?",
+        "answer": "If you buy 2 loaves, you will get a 10% discount, which is 2 x 10% = 0.2 loaves.\nIf you buy 4 loaves, you will get a 20% discount, which is 4 x 20% = 0.8 loaves.\nSince you are buying 6 loaves, you will get the 20% discount, which is 6 x 20% = 1.2 loaves.\nYou will save 1.2 - 0.8 = 0.4 loaves.\n#### ###{0.4}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 30 more loaves of whole wheat than white bread, and the ratio of whole wheat to white bread is 3:2, how many loaves of white bread do they sell?",
+        "answer": "The ratio of whole wheat to white bread is 3:2, so for every 3 loaves of whole wheat, they sell 2 loaves of white bread. Let x be the number of loaves of white bread. Then, the number of loaves of whole wheat is 3x/2. The total number of loaves of bread sold is 250, so we can set up the equation: x + 3x/2 = 250. Simplifying the equation, we get 5x/2 = 250. Multiplying both sides by 2, we get 5x = 500. Dividing both sides by 5, we get x = 100. Therefore, they sell 100 loaves of white bread. ###{100}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. A regular loaf of bread normally costs $2.50, but it's now on sale for 15% off. A whole wheat loaf normally costs $3.00, but it's now on sale for 20% off. How much will you pay for a regular loaf and a whole wheat loaf together?",
+        "answer": "The regular loaf is on sale for 15% off, so the discount is 0.15 * 2.50 = $0.375. The new price for the regular loaf is 2.50 - 0.375 = $2.125. The whole wheat loaf is on sale for 20% off, so the discount is 0.20 * 3.00 = $0.60. The new price for the whole wheat loaf is 3.00 - 0.60 = $2.40. The total cost for both loaves is 2.125 + 2.40 = $4.525. ###{4.53}"
+    },
+    {
+        "question": "A bakery sells a total of 480 muffins and croissants on a certain day. The number of muffins is 3/5 of the number of croissants. How many croissants did the bakery sell?",
+        "answer": "Let the number of croissants be x. Then, the number of muffins is 3/5x. The total number of muffins and croissants is 480, so we can set up the equation: x + 3/5x = 480. Simplifying the equation, we get 8/5x = 480. Multiplying both sides by 5/8, we get x = 300. So, the bakery sold 300 croissants. ###{300}"
+    },
+    {
+        "question": "A bakery is making a special batch of cookies for a holiday sale. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "The bakery needs to package 480 cookies into boxes that hold 12 cookies each. To find the number of boxes needed, we can divide the total number of cookies by the number of cookies per box: 480 \u00f7 12 = 40. Therefore, the bakery will need 40 boxes. ###{40}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it effectively climbs 3 - 2 = 1 foot up each day. To climb 20 feet, it will take 20 / 1 = 20 days. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it effectively moves 1 foot up each day. It needs to climb 20 feet, so it will take 20 days. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it moves 1 foot up each day. It needs to climb 20 feet, so it will take 20 days. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it effectively moves 1 foot up each day. To climb 20 feet, it will take 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 480 loaves of bread in a week. They sell a combination of whole wheat and white bread. If they sell 3/5 of the total loaves as whole wheat and the rest as white bread, how many loaves of white bread do they sell?",
+        "answer": "The total number of loaves is 480. 3/5 of this is 3/5 * 480 = 288. So, the number of whole wheat loaves is 288. The number of white bread loaves is 480 - 288 = 192. ###{192}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. They are offering a 15% discount on all bread. If a loaf of bread originally costs $2.50, how much will it cost after the discount?",
+        "answer": "The original price of the bread is $2.50. The discount is 15% of the original price, which is 0.15 * $2.50 = $0.375. The price after the discount is $2.50 - $0.375 = $2.125. ###{2.125}"
+    },
+    {
+        "question": "A bakery is making a special batch of cookies for a holiday sale. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "To find the number of boxes needed, we can divide the total number of cookies (480) by the number of cookies each box holds (12). 480 \u00f7 12 = 40. Since we can't have a fraction of a box, we round up to the nearest whole number. 40.5 \u2192 41. So, the bakery will need 41 boxes. ###{41}"
+    },
+    {
+        "question": "A bakery sells 250 loaves of bread per day. If they increase the price by $0.50 per loaf, how much will they earn in a day?",
+        "answer": "The bakery sells 250 loaves of bread per day.\nThey increase the price by $0.50 per loaf, so the new price is $0.50 + $x, where x is the original price.\nThe total revenue is the number of loaves sold multiplied by the new price: 250 * ($0.50 + x).\nThe revenue is $125 + 250x.\nThe problem asks for the revenue, not the new price, so we don't need to find x.\nTo find the revenue, we simply evaluate the expression: 250 * ($0.50 + x) = 250 * 0.50 + 250x = 125 + 250x.\n#### ###{125 + 250x}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it effectively moves 1 foot up each day. To climb 20 feet, it will take 20 days. ###{20}"
+    },
+    {
+        "question": "A rectangular garden measures 15 meters by 8 meters. If a path that is 1 meter wide is built around the garden, what is the area of the path?",
+        "answer": "The area of the garden is 15 * 8 = <<15*8=120>>120 square meters.\nThe path is 1 meter wide, so the total perimeter of the garden and path is 15 + 15 + 8 + 8 + 1 + 1 + 1 + 1 = <<15+15+8+8+1+1+1+1=51>>51 meters.\nThe area of the path is the difference between the total perimeter and the original area: 51 * 1 = <<51*1=51>>51 square meters.\n#### ###{51}"
+    },
+    {
+        "question": "A bakery is making a batch of cookies that requires 2/3 cup of sugar. If they have 3 1/4 cups of sugar available, how much sugar can they use for the recipe?",
+        "answer": "The total amount of sugar available is 3 1/4 = <<3.25>> cups.\nTo find out how much sugar they can use for the recipe, we need to find 2/3 of the total amount. To do this, we can multiply 2/3 by 3.25 = <<2/3*3.25=2.1666666666666665>> 2.1666666666666665 cups.\n#### ###{2.1666666666666665}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it effectively climbs 3 - 2 = 1 foot up each day. To climb 20 feet, it will take 20 / 1 = 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery is making a special batch of cookies for a holiday sale. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "The number of boxes needed is 480 / 12 = 40. Since you can't have a fraction of a box, they will need 40 boxes. ###{40}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 30% more whole wheat bread than white bread, and they sell a total of 120 loaves of whole wheat bread, how many loaves of white bread do they sell?",
+        "answer": "Let's start by finding the number of loaves of white bread sold. Let w be the number of loaves of white bread. Since they sell 30% more whole wheat bread than white bread, the number of whole wheat bread sold is w + 0.3w = 1.3w. The total number of loaves sold is 250, so we can set up the equation: w + 1.3w = 250. Combining like terms, we get 2.3w = 250. Dividing both sides by 2.3, we get w = 250/2.3 = 108.8. Since you can't sell a fraction of a loaf, we round down to 108. So they sell 108 loaves of white bread.\n#### ###{108}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it effectively climbs 1 foot per day. It needs to climb 20 feet to reach the top. Therefore, it will take the snail 20 feet / 1 foot per day = 20 days to reach the top of the well. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips back 2 feet, so the net progress each day is 3 - 2 = 1 foot. It needs to climb 20 feet to reach the top, so it will take 20 / 1 = 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery is making a large batch of cookies for a holiday sale. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "The bakery needs to package 480 cookies into boxes that hold 12 cookies each.\nTo find the number of boxes needed, divide the total number of cookies (480) by the number of cookies per box (12).\n480 \u00f7 12 = 40\n#### ###{40}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it effectively moves 1 foot up each day.\nIt needs to move 20 feet to reach the top, so it will take 20 days.\n#### ###{20}"
+    },
+    {
+        "question": "A bakery is making a special batch of cookies for a holiday sale. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "The total number of cookies is 480. To find the number of boxes needed, we divide the total number of cookies by the number of cookies per box: 480 \u00f7 12 = 40. Since you can't have a fraction of a box, we round up to the nearest whole number. 40.5 becomes 41. So, the bakery will need 41 boxes. ###{41}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back each day. So the net progress is 3 - 2 = 1 foot per day. The snail needs to cover a distance of 20 feet to reach the top of the well. Therefore, it will take the snail 20 / 1 = 20 days to reach the top of the well. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back each day, so it effectively moves 1 foot up each day. To reach the top of the 20-foot well, it will take the snail 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 240 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 30 more loaves of whole wheat than white bread, how many loaves of white bread do they sell per day?",
+        "answer": "Let's say the number of loaves of white bread sold per day is x. Since they sell 30 more loaves of whole wheat than white bread, the number of loaves of whole wheat sold per day is x + 30. The total number of loaves sold per day is 240, so we can set up the equation x + (x + 30) = 240. Simplifying the equation, we get 2x + 30 = 240. Subtracting 30 from both sides gives us 2x = 210. Dividing both sides by 2 gives us x = 105. So, the bakery sells 105 loaves of white bread per day. ###{105}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. A loaf of bread normally costs $2.50, but it's on sale for 15% off. How much will you pay for a loaf of bread during the sale?",
+        "answer": "The normal price of the loaf is $2.50.\nTo find the discount, multiply the normal price by the percentage off: $2.50 * 15% = $2.50 * 0.15 = $0.375\nThe discount is $0.375, so the sale price is $2.50 - $0.375 = $2.125\n#### ###{2.125}"
+    },
+    {
+        "question": "A bakery sells a total of 480 loaves of bread per day. They sell a combination of whole wheat and white bread. The ratio of whole wheat to white bread is 2:5. How many loaves of white bread do they sell per day?",
+        "answer": "Let x be the number of loaves of whole wheat bread. Since the ratio of whole wheat to white bread is 2:5, the number of loaves of white bread is 5x/2. The total number of loaves of bread is 480, so we can set up the equation x + 5x/2 = 480. Solving for x, we get x = 160. The number of loaves of white bread is 5x/2 = 5*160/2 = 400. Therefore, the bakery sells 400 loaves of white bread per day. ###{400}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips back 2 feet, so it moves 1 foot up each day. It needs to move 20 feet to reach the top, so it will take 20 days to reach the top.\n#### ###{20}"
+    },
+    {
+        "question": "A bakery is having a sale on its famous chocolate cake. The original price is $20, but it's now 15% off. What is the new price of the cake?",
+        "answer": "The original price is $20. 15% off means the discount is 0.15 x 20 = 3. So the new price is 20 - 3 = 17. ###{17}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. They are offering a 15% discount on all loaves of bread. If a loaf of bread normally costs $2.50, how much will it cost during the sale?",
+        "answer": "The discount is 15% of the original price, which is 0.15 * 2.50 = <<0.15*2.50=0.375>>0.375. The sale price is the original price minus the discount, which is 2.50 - 0.375 = <<2.50-0.375=2.125>>2.125.###{2.125}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up each day, but slips 2 feet back at night, so the net progress each day is 3 - 2 = 1 foot. To climb 20 feet, it will take 20/1 = 20 days. Therefore, the snail will take ###{20} days to reach the top of the well."
+    },
+    {
+        "question": "A bakery is having a sale on bread. A regular loaf of bread normally costs $2.50, but it's on sale for 15% off. How much will you pay for a loaf of bread during the sale?",
+        "answer": "Let the regular price of the loaf be $2.50.\nDuring the sale, it's 15% off, so the discount is 0.15 * $2.50 = $0.375.\nThe sale price is the regular price minus the discount, so it's $2.50 - $0.375 = $2.125.\n#### ###{2.125}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it effectively climbs 3 - 2 = 1 foot per day.\nIt needs to climb 20 feet to reach the top of the well, so it will take 20 / 1 = 20 days.\n#### ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips back 2 feet down, so it moves 1 foot up each day. To climb 20 feet, it will take the snail 20 days. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up each day, but slips 2 feet back at night. So, the net progress each day is 3 - 2 = 1 foot. To climb 20 feet, it will take the snail 20/1 = 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 30 more loaves of whole wheat than white bread, and they sell a total of 120 loaves of whole wheat, how many loaves of white bread do they sell?",
+        "answer": "Let's say the number of loaves of white bread sold is x. Then, the number of loaves of whole wheat sold is x + 30. Since the total number of loaves sold is 250, we can set up the equation: x + (x + 30) = 250. Simplifying the equation, we get 2x + 30 = 250. Subtracting 30 from both sides, we get 2x = 220. Dividing both sides by 2, we get x = 110. So, the bakery sells 110 loaves of white bread. ###{110}"
+    },
+    {
+        "question": "A bakery sells a total of 480 loaves of bread per day. They sell a combination of whole wheat and white bread. If the ratio of whole wheat to white bread is 3:5, how many loaves of white bread do they sell per day?",
+        "answer": "Let's first find the total number of whole wheat loaves. Since the ratio is 3:5, the number of whole wheat loaves is 3x and the number of white loaves is 5x, where x is a common factor. The total number of loaves is 480, so 3x + 5x = 480. Simplifying, 8x = 480, and x = 60. The number of white loaves is 5x = 5*60 = 300. ###{300}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell whole wheat bread for $2 per loaf and white bread for $1.50 per loaf. If they sell 30 more loaves of whole wheat bread than white bread, how much money do they make in a day?",
+        "answer": "Let x be the number of loaves of white bread. Then, the number of loaves of whole wheat bread is x + 30. The total number of loaves is 250, so x + (x + 30) = 250. Simplifying, we get 2x + 30 = 250. Subtracting 30 from both sides, we get 2x = 220. Dividing both sides by 2, we get x = 110. So, the number of loaves of whole wheat bread is 110 + 30 = 140. The total amount of money made is 2(110) + 1.5(140) = 220 + 210 = 430. ###{430}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. If a regular loaf of bread normally costs $2.50 and a whole wheat loaf normally costs $3.25, how much will you save if you buy a whole wheat loaf instead of a regular loaf during the sale?",
+        "answer": "The regular loaf costs $2.50, and the whole wheat loaf costs $3.25. The difference is $3.25 - $2.50 = $0.75. So, you will save $0.75 if you buy the whole wheat loaf instead of the regular loaf. ###{0.75}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it effectively moves 1 foot up each day.\nIt needs to climb 20 feet to reach the top.\nSo it will take 20 days.\n#### ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips back 2 feet down, so it moves 3 - 2 = 1 foot up each day. It starts at the bottom, which is 20 feet down, so it needs to move 20 feet up to reach the top. 20 feet / 1 foot per day = 20 days\n#### ###{20}"
+    },
+    {
+        "question": "What is the value of x in the equation 2x + 5 = 11?",
+        "answer": "We can solve for x by subtracting 5 from both sides of the equation, giving us 2x = 11 - 5 = 6. Then, we divide both sides by 2 to get x = 6/2 = 3. ###{3}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it moves 1 foot up each day. It needs to move 20 feet up, so it will take 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 3/5 of their loaves as whole wheat and the rest as white bread, how many loaves of white bread do they sell?",
+        "answer": "The total number of loaves sold is 250. The number of whole wheat loaves is 3/5 * 250 = <<3/5*250=150>>150. The number of white bread loaves is 250 - 150 = <<250-150=100>>100. Therefore, the bakery sells ###{100} loaves of white bread."
+    },
+    {
+        "question": "A bakery sells a total of 240 loaves of bread in a day. They sell a combination of whole wheat and white bread. If the ratio of whole wheat to white bread is 3:5, how many loaves of whole wheat bread were sold?",
+        "answer": "Let x be the number of loaves of whole wheat bread sold. The ratio of whole wheat to white bread is 3:5, so the number of loaves of white bread sold is 5x/3. The total number of loaves sold is 240, so we can set up the equation x + (5x/3) = 240. Simplifying the equation, we get 8x/3 = 240. Multiplying both sides by 3, we get 8x = 720. Dividing both sides by 8, we get x = 90. So, 90 loaves of whole wheat bread were sold. ###{90}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips 2 feet back, so it effectively moves 1 foot up each day. To climb 20 feet, it will take 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery is making a special batch of cookies for a holiday sale. They need to package 480 cookies into boxes that hold 12 cookies each. How many boxes will they need?",
+        "answer": "The bakery needs to package 480 cookies into boxes that hold 12 cookies each. To find the number of boxes needed, we can divide the total number of cookies by the number of cookies per box: 480 \u00f7 12 = 40. So, they will need 40 boxes. ###{40}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. They are offering 20% off on all loaves of bread. If the original price of a loaf is $2.50, how much will a customer pay for 5 loaves?",
+        "answer": "The original price of a loaf is $2.50. The discount is 20% of $2.50, which is 0.20 * 2.50 = 0.50. The sale price of a loaf is $2.50 - $0.50 = $2.00. The total cost of 5 loaves is 5 * $2.00 = $10.00. ###{10.00}"
+    },
+    {
+        "question": "A bakery is having a sale on bread. They are offering a 10% discount on all loaves of bread. If a loaf of bread originally costs $2.50, how much will it cost after the discount?",
+        "answer": "The original price of the bread is $2.50. A 10% discount means you subtract 10% of the original price from the original price.\n10% of $2.50 is 0.10 * 2.50 = 0.25\nSo the discount is $0.25. The new price is $2.50 - $0.25 = $2.25\n#### ###{2.25}"
+    },
+    {
+        "question": "A bakery sells a total of 250 loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell 30% more whole wheat bread than white bread, how many loaves of whole wheat bread do they sell?",
+        "answer": "The total number of loaves is 250. Let's say the number of white bread loaves is x. Then the number of whole wheat loaves is x + (30% of x) = x + 0.3x = 1.3x. The total number of loaves is the sum of white and whole wheat loaves, so we can set up the equation: x + 1.3x = 250. Combine like terms: 2.3x = 250. Divide both sides by 2.3: x = 250/2.3 = 108.5. So the number of white bread loaves is 108.5, and the number of whole wheat loaves is 1.3 * 108.5 = 140.5. ####{140.5}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet each day and slips back 2 feet each night, so it effectively moves 1 foot up the well each day. To find the number of days it takes to reach the top, we can divide the height of the well (20 feet) by the daily progress (1 foot): 20 feet / 1 foot/day = 20 days. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up each day, but slips back 2 feet at night. So, it effectively climbs 3 - 2 = 1 foot each day. To find the number of days it takes to climb the 20-foot well, we can divide the height by the daily climb: 20 feet / 1 foot/day = 20 days. ###{20}"
+    },
+    {
+        "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+        "answer": "The snail climbs 3 feet up and slips back 2 feet, so it effectively moves 1 foot up each day. To climb 20 feet, it will take 20 days. ###{20}"
+    },
+    {
+        "question": "A bakery sells a total of 240 loaves of bread in a day. They sell a combination of whole wheat and white bread. If the ratio of whole wheat to white bread is 3:5, how many loaves of whole wheat bread were sold?",
+        "answer": "The ratio of whole wheat to white bread is 3:5, which means that for every 3 loaves of whole wheat bread sold, 5 loaves of white bread were sold. Let's say the number of loaves of whole wheat bread sold is 3x. Then, the number of loaves of white bread sold is 5x. The total number of loaves sold is 240, so we can set up the equation: 3x + 5x = 240. Combine like terms: 8x = 240. Divide both sides by 8: x = 30. Since x represents the number of loaves of whole wheat bread sold, we can conclude that 30 loaves of whole wheat bread were sold. ###{30}"
+    }
+]
