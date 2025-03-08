@@ -1,5 +1,0 @@
-{
-    "model_name": "llama3-8b",
-    "prompt": "\nTask: Based on the following example, generate a new math question and its answer. The answer should include a step-by-step explanation and end with the final answer in the format ###{{result}}.\n\nExample:\n{data}\nNow, please generate one similar Q&A pair in valid JSON format with keys \"question\" and \"answer\".\n",
-    "source_data": "gsm8k_train"
-}

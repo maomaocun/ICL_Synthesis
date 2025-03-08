@@ -1,5 +1,0 @@
-{
-    "model_name": "llama3-8b",
-    "prompt": " \nTask: Generate Similar Math Questions and Answers\n\nYou are tasked with generating **1 math question** and its corresponding **correct answer** in the required format. Ensure that:\n1. The generated question and answer simulate the style and structure of the given reference data.\n2. The answer is logically and mathematically correct.\n3. The final answer in the `answer` field is formatted as `###{{89}}`.\n4. The output strictly follows the specified JSON format.\n\n---\n\n### Reference Data:\n{data}\n\n---\n\n### Required Output Format:\n```json\n{{\n    \"question\": \"Tom is planning a party and buys 3 large pizzas and 1 small pizza. A large pizza has 16 slices and a small pizza has 8 slices. If his guests eat all the pizza, how many pieces do they eat in total?\",\n    \"answer\": \"To find the total number of slices, we need to add the number of slices from the large pizzas and the small pizza. 3 large pizzas have 3 x 16 = 48 slices. 1 small pizza has 1 x 8 = 8 slices. So, the total number of slices is 48 + 8 = 56. Answer is ###{{56}}.\"\n}}\n```\n",
-    "source_data": "gsm8k_train"
-}
